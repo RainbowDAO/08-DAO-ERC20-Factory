@@ -18,7 +18,7 @@ Submission address directory:
 http://www.rainbowdao.io/project
 
 Project demo website:
-https://erc20.rainbowdao.io/
+https://erc20.rainbowdao.io/#/
 
 
 
