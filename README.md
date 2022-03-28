@@ -1,6 +1,3 @@
-# Submission for the ETHDenver 2022 Virtual BUIDLathon
-
-
 
 ## 1.Project name
 
@@ -16,27 +13,22 @@ RainbowCity Foundation
 
 ## 4.Submission links
 
-In this ETHDenver 2022 Virtual BUIDLathon event, RainbowCity Foundation submitted a total of 9 projects, which is the  address directory of the 9 projects. We are continuing to refine the details of each project.
-
-
 
 Submission address directory:
-http://www.rainbowdao.io/ETHDanver2022
-
-
+http://www.rainbowdao.io/project
 
 Project demo website:
-https://erc20ethdanver.rainbowdao.io/
+https://erc20.rainbowdao.io/
 
 
 
 GitHub repository :
-https://github.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory
+https://github.com/RainbowDAO/08-DAO-ERC20-Factory
 
 
 
 Solidity-Version-contract (GitHub):
-https://github.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/tree/main/Solidity-contract
+https://github.com/RainbowDAO/08-DAO-ERC20-Factory/tree/main/Solidity-contract
 
 
 
@@ -46,7 +38,7 @@ https://github.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/tree/main/Front
 
 
 Picture (GitHub):
-https://github.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/tree/main/PIC
+https://github.com/RainbowDAO/08-DAO-ERC20-Factory/tree/main/PIC
 
 
 
@@ -67,10 +59,10 @@ ERC20Factory :
 0x6bA328D11E50d2A2862B6032BF91b166d1558425
 
 Frontend docs:
-https://github.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/blob/main/Front-end/README.md
+https://github.com/RainbowDAO/08-DAO-ERC20-Factory/blob/main/Front-end/README.md
 
 Contract  docs:
-https://github.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/blob/main/Solidity-contract/README.md
+https://github.com/RainbowDAO/08-DAO-ERC20-Factory/blob/main/Solidity-contract/README.md
 
 
 
@@ -120,7 +112,7 @@ These specialized functions are suitable for different situations, and everyone 
 
 ## 3.How we built it
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/logic-diagram.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/logic-diagram.png)
 
 
 
@@ -187,82 +179,82 @@ These can be set according to the situation of different people.
 
 ##  1-Token-Information
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/1-Token-Information.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/1-Token-Information.png)
 
 
 ##  2-Manager-1
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/2-Manager-1.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/2-Manager-1.png)
 
 
 ##  3-Manager-2
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/3-Manager-2.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/3-Manager-2.png)
 
 
 ##  4-Manager-3
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/4-Manager-3.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/4-Manager-3.png)
 
 
 ##  5-Burning
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/5-Burning.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/5-Burning.png)
 
 
 ##  6-Trading-Fees-1
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/6-Trading-Fees-1.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/6-Trading-Fees-1.png)
 
 
 ##  7-Trading-Fees-2
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/7-Trading-Fees-2.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/7-Trading-Fees-2.png)
 
 
 ##  8-Token-distribution-address-1
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/8-Token-distribution-address-1.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/8-Token-distribution-address-1.png)
 
 
 ##  9-Token-distribution-address-2
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/9-Token-distribution-address-2.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/9-Token-distribution-address-2.png)
 
 
 ##  10-Token-List-1
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/10-Token-List-1.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/10-Token-List-1.png)
 
 
 ##  11-Token-List-2
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/11-Token-List-2.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/11-Token-List-2.png)
 
 
 ##  12-Manage-Setting-1
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/12-Manage-Setting-1.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/12-Manage-Setting-1.png)
 
 
 ##  13-Manage-Setting-2
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/13-Manage-Setting-2.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/13-Manage-Setting-2.png)
 
 
 ##  14-Manage-Setting-3
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/05-ETHDenver2022-DAO-ERC20-Factory/main/PIC/14-Manage-Setting-3.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/08-DAO-ERC20-Factory/main/PIC/14-Manage-Setting-3.png)
