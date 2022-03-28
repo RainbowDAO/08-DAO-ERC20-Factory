@@ -50,6 +50,18 @@ https://youtu.be/Nt8RLfuNIRw
 
 ## 6.Testnet Deployment Information
 
+#### 1.BNB Test
+
+Network Name: BNB Test Network
+RPC URL: https://data-seed-prebsc-1-s1.binance.org:8545/
+
+Contract deployment address
+
+ERC20Factory :
+0x036fa7b97772897a1a59BD1101416ECd47Cd61E7
+
+
+#### 2.Rinkeby Test
 Network Name: Rinkeby Test Network
 RPC URL: https://rinkeby.infura.io/v3/
 
